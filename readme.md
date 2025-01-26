@@ -5,7 +5,7 @@ A Python package to implement the TOPSIS (Technique for Order of Preference by S
 ## Installation
 
 ```bash
-pip install Topsis-<FirstName>-<RollNumber>
+pip install Topsis-Rijul-102217207
 
 from topsis import topsis
 
