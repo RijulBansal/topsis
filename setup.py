@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Topsis-<FirstName>-<RollNumber>',  # Replace <FirstName> and <RollNumber>
-    version='1.0.0',
-    author='<Your Name>',
-    author_email='<Your Email>',
+    name='Topsis-Rijul-102217207',  # Replace with your actual name and roll number
+    version='1.0.0',  # Follow semantic versioning
+    author='Rijul Bansal',
+    author_email='your-email@example.com',  # Replace with your email
     description='A Python package for implementing the TOPSIS decision-making method',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
